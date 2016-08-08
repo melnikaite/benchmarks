@@ -1,0 +1,4 @@
+cargo:rustc-link-search=native=/usr/lib
+cargo:rustc-link-lib=ssl
+cargo:rustc-link-lib=crypto
+cargo:rustc-link-lib=z

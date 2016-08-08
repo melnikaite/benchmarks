@@ -1,0 +1,9 @@
+name:                warp3
+version:             1.0.0.0
+cabal-version:       >=1.10
+
+executable warp3
+  main-is:             Main.hs
+  other-extensions:    OverloadedStrings
+  build-depends:       base >=4.9 && <4.10, wai >=3.2 && <3.3, warp >=3.2 && <3.3, http-types >=0.9 && <0.10
+  default-language:    Haskell2010

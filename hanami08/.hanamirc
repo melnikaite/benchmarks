@@ -1,0 +1,4 @@
+project=hanami08
+architecture=container
+test=minitest
+template=erb

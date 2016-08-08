@@ -1,0 +1,6 @@
+[package]
+name = "hyper09"
+version = "0.1.0"
+
+[dependencies]
+hyper = "0.9"

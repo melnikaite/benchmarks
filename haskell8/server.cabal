@@ -1,0 +1,7 @@
+name:                server
+version:             1.0.0.0
+cabal-version:       >=1.10
+
+executable server
+  main-is:             Main.hs
+  build-depends:       base, network
