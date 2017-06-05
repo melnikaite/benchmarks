@@ -1,4 +1,4 @@
-`crystal server.cr`
+`crystal build --release server.cr`
 
 `./server`
 
