@@ -1,0 +1,17 @@
+-Ilib/
+-Ilib/facil
+-Ilib/facil/core
+-Ilib/facil/http/
+-Ilib/facil/redis
+-Ilib/facil/core/types
+-Ilib/facil/services
+-Ilib/facil/bscrypt
+-Ilib/facil/bscrypt/bscrypt
+
+-Idev/
+-Idev/startup
+-Idev/services
+-Idev/http
+
+-DDEBUG
+-DHAVE_OPENSSL
